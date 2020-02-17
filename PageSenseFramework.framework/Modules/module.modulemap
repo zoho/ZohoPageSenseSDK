@@ -1,0 +1,11 @@
+framework module PageSenseFramework {
+  umbrella header "PageSenseFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module PageSenseFramework.Swift {
+    header "PageSenseFramework-Swift.h"
+    requires objc
+}
