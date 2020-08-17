@@ -215,6 +215,13 @@ SWIFT_CLASS("_TtC18PageSenseFramework14PageSenseEvent")
 
 
 
+
+SWIFT_CLASS("_TtC18PageSenseFramework20ZPSPushNotifications")
+@interface ZPSPushNotifications : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif

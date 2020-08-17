@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PageSenseFramework-Swift.h</key>
 		<data>
-		wNVhG1baHOagy6zGkcfg4hC1TYY=
+		eE6a9OAWkF79S0wwSa+HsmWGn7k=
 		</data>
 		<key>Headers/PageSenseFramework.h</key>
 		<data>
@@ -24,17 +24,25 @@
 		<data>
 		4M1/Kp+MB0KXfHomis/+YeLRx+c=
 		</data>
+		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		Nzi6e304ey5rPxXyxqKPMn4OQno=
+		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/ehR7GJtCIgESRNeHLDrJYXGuiU=
+		RqBGs0zxyusbwfKbD1jhh8lo3JY=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
 		4M1/Kp+MB0KXfHomis/+YeLRx+c=
 		</data>
+		<key>Modules/PageSenseFramework.swiftmodule/x86_64.swiftinterface</key>
+		<data>
+		Nzi6e304ey5rPxXyxqKPMn4OQno=
+		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		/ehR7GJtCIgESRNeHLDrJYXGuiU=
+		RqBGs0zxyusbwfKbD1jhh8lo3JY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CaOEGmtiLHQD970EVfGnEc/tGws6RzeA4g+r4oQFikk=
+			bV+QKGrHvRPTQPbhypt9OFpvFZsK1baAYe3JIF8Tpvc=
 			</data>
 		</dict>
 		<key>Headers/PageSenseFramework.h</key>
@@ -71,11 +79,18 @@
 			VTg77qJOg3Y2qNTLYH8OT8FRC15K/qIW7QLYMvhR6jA=
 			</data>
 		</dict>
+		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mUiLdLof3BbKSGw+cXuPtjLoVZmCFWjz7eZFfuJCQQg=
+			</data>
+		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oh1yiM1dRWLFxAj5BUI5l4SVezOyeld64GlCL4C0g4A=
+			B7NuGNcodsIcBrjyHTcYO5v0h07SNUioKPQ1n1q0jbI=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -85,11 +100,18 @@
 			VTg77qJOg3Y2qNTLYH8OT8FRC15K/qIW7QLYMvhR6jA=
 			</data>
 		</dict>
+		<key>Modules/PageSenseFramework.swiftmodule/x86_64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mUiLdLof3BbKSGw+cXuPtjLoVZmCFWjz7eZFfuJCQQg=
+			</data>
+		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oh1yiM1dRWLFxAj5BUI5l4SVezOyeld64GlCL4C0g4A=
+			B7NuGNcodsIcBrjyHTcYO5v0h07SNUioKPQ1n1q0jbI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
