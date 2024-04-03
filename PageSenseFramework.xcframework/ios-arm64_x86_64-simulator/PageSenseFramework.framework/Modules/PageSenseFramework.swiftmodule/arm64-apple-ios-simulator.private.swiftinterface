@@ -1,0 +1,28 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name PageSenseFramework
+import CoreTelephony
+import Foundation
+import NotificationCenter
+@_exported import PageSenseFramework
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class PageSense : ObjectiveC.NSObject {
+  public static let shared: PageSenseFramework.PageSense
+  public static func integrate()
+  public static func trackEvent(eventName: Swift.String)
+  public func trackEvent(eventName: Swift.String, withProperties: [Swift.String : Swift.String])
+  public static func trackUser(userProfile: [Swift.String : Swift.String])
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class ZPSPushNotifications : ObjectiveC.NSObject {
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers public class PageSenseEvent : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  public init(eventName: Swift.String)
+  @objc deinit
+}

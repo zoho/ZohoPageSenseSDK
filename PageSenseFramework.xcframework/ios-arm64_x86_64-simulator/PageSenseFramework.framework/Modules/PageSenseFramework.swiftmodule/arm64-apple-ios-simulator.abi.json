@@ -1,0 +1,1015 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PageSense",
+        "printedName": "PageSense",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PageSense",
+                "printedName": "PageSenseFramework.PageSense",
+                "usr": "c:@M@PageSenseFramework@objc(cs)PageSense"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18PageSenseFramework0aB0C6sharedACvpZ",
+            "mangledName": "$s18PageSenseFramework0aB0C6sharedACvpZ",
+            "moduleName": "PageSenseFramework",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PageSense",
+                    "printedName": "PageSenseFramework.PageSense",
+                    "usr": "c:@M@PageSenseFramework@objc(cs)PageSense"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18PageSenseFramework0aB0C6sharedACvgZ",
+                "mangledName": "$s18PageSenseFramework0aB0C6sharedACvgZ",
+                "moduleName": "PageSenseFramework",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "integrate",
+            "printedName": "integrate()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18PageSenseFramework0aB0C9integrateyyFZ",
+            "mangledName": "$s18PageSenseFramework0aB0C9integrateyyFZ",
+            "moduleName": "PageSenseFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "trackEvent",
+            "printedName": "trackEvent(eventName:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18PageSenseFramework0aB0C10trackEvent9eventNameySS_tFZ",
+            "mangledName": "$s18PageSenseFramework0aB0C10trackEvent9eventNameySS_tFZ",
+            "moduleName": "PageSenseFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "trackEvent",
+            "printedName": "trackEvent(eventName:withProperties:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18PageSenseFramework0aB0C10trackEvent9eventName14withPropertiesySS_SDyS2SGtF",
+            "mangledName": "$s18PageSenseFramework0aB0C10trackEvent9eventName14withPropertiesySS_SDyS2SGtF",
+            "moduleName": "PageSenseFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "trackUser",
+            "printedName": "trackUser(userProfile:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18PageSenseFramework0aB0C9trackUser11userProfileySDyS2SG_tFZ",
+            "mangledName": "$s18PageSenseFramework0aB0C9trackUser11userProfileySDyS2SG_tFZ",
+            "moduleName": "PageSenseFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@PageSenseFramework@objc(cs)PageSense",
+        "mangledName": "$s18PageSenseFramework0aB0C",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NotificationCenter",
+        "printedName": "NotificationCenter",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ZPSPushNotifications",
+        "printedName": "ZPSPushNotifications",
+        "declKind": "Class",
+        "usr": "c:@M@PageSenseFramework@objc(cs)ZPSPushNotifications",
+        "mangledName": "$s18PageSenseFramework20ZPSPushNotificationsC",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PageSenseEvent",
+        "printedName": "PageSenseEvent",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PageSenseEvent",
+                "printedName": "PageSenseFramework.PageSenseEvent",
+                "usr": "c:@M@PageSenseFramework@objc(cs)PageSenseEvent"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@PageSenseFramework@objc(cs)PageSenseEvent(im)init",
+            "mangledName": "$s18PageSenseFramework0aB5EventCACycfc",
+            "moduleName": "PageSenseFramework",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(eventName:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PageSenseEvent",
+                "printedName": "PageSenseFramework.PageSenseEvent",
+                "usr": "c:@M@PageSenseFramework@objc(cs)PageSenseEvent"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:18PageSenseFramework0aB5EventC9eventNameACSS_tcfc",
+            "mangledName": "$s18PageSenseFramework0aB5EventC9eventNameACSS_tcfc",
+            "moduleName": "PageSenseFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@PageSenseFramework@objc(cs)PageSenseEvent",
+        "mangledName": "$s18PageSenseFramework0aB5EventC",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NotificationCenter",
+        "printedName": "NotificationCenter",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "kind": "StringLiteral",
+      "offset": 247,
+      "length": 20,
+      "value": "\"didEnterBackground\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "kind": "StringLiteral",
+      "offset": 324,
+      "length": 21,
+      "value": "\"willEnterForeground\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "kind": "StringLiteral",
+      "offset": 398,
+      "length": 17,
+      "value": "\"didBecomeActive\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "kind": "StringLiteral",
+      "offset": 469,
+      "length": 18,
+      "value": "\"willResignActive\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "kind": "StringLiteral",
+      "offset": 538,
+      "length": 28,
+      "value": "\"UIApplicationWillTerminate\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "kind": "StringLiteral",
+      "offset": 622,
+      "length": 33,
+      "value": "\"UIApplicationDidFinishLaunching\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "kind": "StringLiteral",
+      "offset": 687,
+      "length": 23,
+      "value": "\"DefaultLifeCycleEvent\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "kind": "StringLiteral",
+      "offset": 289,
+      "length": 10,
+      "value": "\"https:\/\/\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "kind": "StringLiteral",
+      "offset": 318,
+      "length": 25,
+      "value": "\"pagesense-collect.zoho.\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "kind": "StringLiteral",
+      "offset": 362,
+      "length": 25,
+      "value": "\"\/pagesense\/api\/psmobile\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "kind": "StringLiteral",
+      "offset": 473,
+      "length": 32,
+      "value": "\"optimize-collect.localzoho.com\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "kind": "Dictionary",
+      "offset": 573,
+      "length": 75,
+      "value": "[(\"us\", \"com\"), (\"in\", \"in\"), (\"eu\", \"eu\"), (\"cn\", \"com.cn\"), (\"au\", \"com.au\")]"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSense.swift",
+      "kind": "IntegerLiteral",
+      "offset": 482,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSense.swift",
+      "kind": "FloatLiteral",
+      "offset": 522,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSense.swift",
+      "kind": "BooleanLiteral",
+      "offset": 576,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 206,
+      "length": 11,
+      "value": "\"eventname\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 237,
+      "length": 6,
+      "value": "\"time\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 277,
+      "length": 23,
+      "value": "\"time_to_achieve_event\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 332,
+      "length": 21,
+      "value": "\"is_life_cycle_event\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 390,
+      "length": 25,
+      "value": "\"event_custom_attributes\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 437,
+      "length": 12,
+      "value": "\"regioncode\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 472,
+      "length": 14,
+      "value": "\"batterylevel\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
+      "length": 13,
+      "value": "\"device_uuid\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 543,
+      "length": 14,
+      "value": "\"currencycode\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 578,
+      "length": 13,
+      "value": "\"app_version\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 609,
+      "length": 10,
+      "value": "\"app_name\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 649,
+      "length": 23,
+      "value": "\"app_bundle_identifier\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 688,
+      "length": 8,
+      "value": "\"app_id\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 716,
+      "length": 11,
+      "value": "\"osversion\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 743,
+      "length": 7,
+      "value": "\"model\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 770,
+      "length": 11,
+      "value": "\"sessionid\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 798,
+      "length": 4,
+      "value": "\"os\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 829,
+      "length": 18,
+      "value": "\"frameworkversion\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 869,
+      "length": 8,
+      "value": "\"events\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 905,
+      "length": 24,
+      "value": "\"user_custom_attributes\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 941,
+      "length": 5,
+      "value": "\"urd\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 957,
+      "length": 5,
+      "value": "\"grd\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSSessionManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 347,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSScreen.swift",
+      "kind": "StringLiteral",
+      "offset": 287,
+      "length": 30,
+      "value": "\"timeIntervalSince1970DateKey\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSScreen.swift",
+      "kind": "StringLiteral",
+      "offset": 342,
+      "length": 15,
+      "value": "\"screenNameKey\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSPushNotifications.swift",
+      "kind": "Dictionary",
+      "offset": 364,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSPushNotifications.swift",
+      "kind": "BooleanLiteral",
+      "offset": 399,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSDispatchQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 471,
+      "length": 22,
+      "value": "\"eventQueueeventQueue\""
+    }
+  ]
+}
