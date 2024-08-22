@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>ios-arm64/PageSenseFramework.framework/.swiftlint.yml</key>
-		<data>
-		6U046fmv/wLDDtMZ0r/PIpl1P5g=
-		</data>
 		<key>ios-arm64/PageSenseFramework.framework/Headers/PageSenseFramework-Swift.h</key>
 		<data>
 		6kG+NfTMh3PpZKYVGKv7+gGg60w=
@@ -22,23 +18,23 @@
 		</data>
 		<key>ios-arm64/PageSenseFramework.framework/Info.plist</key>
 		<data>
-		/VEems8HiQ2RRDeEwr2J3evwwM0=
+		au9rSVezIiAXwOl8Qqvm4d1Oid8=
 		</data>
 		<key>ios-arm64/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		aac9R/gA/bCLTyhB79BaYyZ2z4w=
+		Nefkgj52dQyj9mawISaSFpcdmKY=
 		</data>
 		<key>ios-arm64/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		hrPkPfZcNZcOfnveFtP9waX9xI4=
+		0Z6z7o4MYoWcjissWmsQilIy5i0=
 		</data>
 		<key>ios-arm64/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		o5cGe7yXihwwXkhhHhYbxrDimLk=
+		pXlZJVjUtjbYA3xO3BoB2rLjfR4=
 		</data>
 		<key>ios-arm64/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		hrPkPfZcNZcOfnveFtP9waX9xI4=
+		0Z6z7o4MYoWcjissWmsQilIy5i0=
 		</data>
 		<key>ios-arm64/PageSenseFramework.framework/Modules/module.modulemap</key>
 		<data>
@@ -46,23 +42,37 @@
 		</data>
 		<key>ios-arm64/PageSenseFramework.framework/PageSenseFramework</key>
 		<data>
-		2aatrVD5cKo0Q96EydCh2pOB5OM=
+		Tf1FhBmZHz99ckMvO8uvMBVZ9rw=
 		</data>
+		<key>ios-arm64/PageSenseFramework.framework/en.lproj/ZPSActionableNotificationLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zT8P5JppAmyI4cOeilCi9UyJ64g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/PageSenseFramework.framework/fr.lproj/ZPSActionableNotificationLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zT8P5JppAmyI4cOeilCi9UyJ64g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ios-arm64/dSYMs/PageSenseFramework.framework.dSYM/Contents/Info.plist</key>
 		<data>
 		r+FWQpsmYpXT0hyYOZaPtMzbowM=
 		</data>
 		<key>ios-arm64/dSYMs/PageSenseFramework.framework.dSYM/Contents/Resources/DWARF/PageSenseFramework</key>
 		<data>
-		Tydo6qnPul9JEQLt4vVVP4Z5exA=
+		IwhMFPOsYxwtZgYdQm1z7jAU/S0=
 		</data>
 		<key>ios-arm64/dSYMs/PageSenseFramework.framework.dSYM/Contents/Resources/Relocations/aarch64/PageSenseFramework.yml</key>
 		<data>
-		RhdiylKiXyXTFQg95eR/mxD7h38=
-		</data>
-		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/.swiftlint.yml</key>
-		<data>
-		6U046fmv/wLDDtMZ0r/PIpl1P5g=
+		mFdvtNuonPtyZiLrDmbcRRg3axg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Headers/PageSenseFramework-Swift.h</key>
 		<data>
@@ -78,15 +88,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Info.plist</key>
 		<data>
-		rKmR3XAQPXXGKu11IrT2khrxrmg=
+		cyEmjq48CE93otfphYCHIj9CjYU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		aac9R/gA/bCLTyhB79BaYyZ2z4w=
+		Nefkgj52dQyj9mawISaSFpcdmKY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		0jrTwUq+ol8Pubo8I/HfQwOKi60=
+		tLLQoA0hQMqFxL8wRMBuW8nK1gA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -94,15 +104,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		0jrTwUq+ol8Pubo8I/HfQwOKi60=
+		tLLQoA0hQMqFxL8wRMBuW8nK1gA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		aac9R/gA/bCLTyhB79BaYyZ2z4w=
+		Nefkgj52dQyj9mawISaSFpcdmKY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		cAwlv+vhE/gRucWM1Db3HR7mHW4=
+		i6inl1RrjKDjDeFoTNOHyFNzlXM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -110,7 +120,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		cAwlv+vhE/gRucWM1Db3HR7mHW4=
+		i6inl1RrjKDjDeFoTNOHyFNzlXM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/module.modulemap</key>
 		<data>
@@ -118,42 +128,49 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/PageSenseFramework</key>
 		<data>
-		v/qcWrATmtwcSJ5oBh2KRmitpXU=
+		YD8JUiHqnijmMEdu8GA0eGgFCNE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Rntpq8S0xx347cYM592JkoHVhs0=
+		XFSQ54w90BQ3mPkNzJOGp13sAGk=
 		</data>
+		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/en.lproj/ZPSActionableNotificationLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zT8P5JppAmyI4cOeilCi9UyJ64g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/fr.lproj/ZPSActionableNotificationLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zT8P5JppAmyI4cOeilCi9UyJ64g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/PageSenseFramework.framework.dSYM/Contents/Info.plist</key>
 		<data>
 		r+FWQpsmYpXT0hyYOZaPtMzbowM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/PageSenseFramework.framework.dSYM/Contents/Resources/DWARF/PageSenseFramework</key>
 		<data>
-		8ss0GGjISdAj1m7UrCio1mmRaHU=
+		2ewza5LwSk8BCCEgmyjZrsUHAgI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/PageSenseFramework.framework.dSYM/Contents/Resources/Relocations/aarch64/PageSenseFramework.yml</key>
 		<data>
-		YP8CpKNpFhTa12jtlDSuTMbMz0w=
+		GqtbagTNSy7hOgY40gp5VHkC5U0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/PageSenseFramework.framework.dSYM/Contents/Resources/Relocations/x86_64/PageSenseFramework.yml</key>
 		<data>
-		xINos+XMF0Gn0VOssGoUtwKEgBM=
+		p51ugRCyWz/Z7CbeepzmpQh48dY=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>ios-arm64/PageSenseFramework.framework/.swiftlint.yml</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6U046fmv/wLDDtMZ0r/PIpl1P5g=
-			</data>
-			<key>hash2</key>
-			<data>
-			Wuvu8aYtD41vKbFDYjnmr1OMoyUfzaZIU4Afx0tq6q0=
-			</data>
-		</dict>
 		<key>ios-arm64/PageSenseFramework.framework/Headers/PageSenseFramework-Swift.h</key>
 		<dict>
 			<key>hash</key>
@@ -191,55 +208,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/VEems8HiQ2RRDeEwr2J3evwwM0=
+			au9rSVezIiAXwOl8Qqvm4d1Oid8=
 			</data>
 			<key>hash2</key>
 			<data>
-			3kheduZMNY3PzQoqkFxfX2Alcu7UrG7KlP0fjsWUY/Y=
+			gx54oULgOvvDoeb5yv1i8EPBMnc5O0v8K8o9zKoGnF4=
 			</data>
 		</dict>
 		<key>ios-arm64/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aac9R/gA/bCLTyhB79BaYyZ2z4w=
+			Nefkgj52dQyj9mawISaSFpcdmKY=
 			</data>
 			<key>hash2</key>
 			<data>
-			FSvIy+9rYQJA3P2hQOFKHiOymjf6LmmhpWrbhxrF+uk=
+			3B197eQlw1agYRsVGgxZNP5BJk8HRafpW+Jq5OMe0+A=
 			</data>
 		</dict>
 		<key>ios-arm64/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hrPkPfZcNZcOfnveFtP9waX9xI4=
+			0Z6z7o4MYoWcjissWmsQilIy5i0=
 			</data>
 			<key>hash2</key>
 			<data>
-			BkcYdeIVoJ5C3PMF8YMfpj31yfHdn+/Lzta2e39HviE=
+			u5CIYsCBjoWX0hMtF6ahRlMzaQ+efQRdMR4adRHQ2P8=
 			</data>
 		</dict>
 		<key>ios-arm64/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o5cGe7yXihwwXkhhHhYbxrDimLk=
+			pXlZJVjUtjbYA3xO3BoB2rLjfR4=
 			</data>
 			<key>hash2</key>
 			<data>
-			r1Kfs9fUZCroF7MoZfT1YDZudBg3Wr0ZxMbJSiGqqzc=
+			weWorwBilTwjCBmEZdMoiYoFnJrblwTahOQDS6yOqeY=
 			</data>
 		</dict>
 		<key>ios-arm64/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hrPkPfZcNZcOfnveFtP9waX9xI4=
+			0Z6z7o4MYoWcjissWmsQilIy5i0=
 			</data>
 			<key>hash2</key>
 			<data>
-			BkcYdeIVoJ5C3PMF8YMfpj31yfHdn+/Lzta2e39HviE=
+			u5CIYsCBjoWX0hMtF6ahRlMzaQ+efQRdMR4adRHQ2P8=
 			</data>
 		</dict>
 		<key>ios-arm64/PageSenseFramework.framework/Modules/module.modulemap</key>
@@ -257,12 +274,38 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2aatrVD5cKo0Q96EydCh2pOB5OM=
+			Tf1FhBmZHz99ckMvO8uvMBVZ9rw=
 			</data>
 			<key>hash2</key>
 			<data>
-			FJDtHYfEr7F61nfyZTYBQ5dJ5MBG6kisIYatrFuRNFs=
+			90RlZj6G9z3nb2mTe07C1R7/gliivlES2z+qoEP2MZg=
 			</data>
+		</dict>
+		<key>ios-arm64/PageSenseFramework.framework/en.lproj/ZPSActionableNotificationLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zT8P5JppAmyI4cOeilCi9UyJ64g=
+			</data>
+			<key>hash2</key>
+			<data>
+			oQ1nAG7M+880/6k2KOtBejdOjsWJnajSle62G5/dXzM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/PageSenseFramework.framework/fr.lproj/ZPSActionableNotificationLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zT8P5JppAmyI4cOeilCi9UyJ64g=
+			</data>
+			<key>hash2</key>
+			<data>
+			oQ1nAG7M+880/6k2KOtBejdOjsWJnajSle62G5/dXzM=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>ios-arm64/dSYMs/PageSenseFramework.framework.dSYM/Contents/Info.plist</key>
 		<dict>
@@ -279,33 +322,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Tydo6qnPul9JEQLt4vVVP4Z5exA=
+			IwhMFPOsYxwtZgYdQm1z7jAU/S0=
 			</data>
 			<key>hash2</key>
 			<data>
-			YUcvucU5qFtPglDmJmja7lw+b9qAM2k/GQalu4s463I=
+			NRxjP1YEfw8R2xXqQ0AyGC0QICwC6dza0pfloaQmTCE=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/PageSenseFramework.framework.dSYM/Contents/Resources/Relocations/aarch64/PageSenseFramework.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RhdiylKiXyXTFQg95eR/mxD7h38=
+			mFdvtNuonPtyZiLrDmbcRRg3axg=
 			</data>
 			<key>hash2</key>
 			<data>
-			+x3ULpThu75Hpsn/QtVtfcGxKn0piIsdAntQLlA1fyo=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/.swiftlint.yml</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6U046fmv/wLDDtMZ0r/PIpl1P5g=
-			</data>
-			<key>hash2</key>
-			<data>
-			Wuvu8aYtD41vKbFDYjnmr1OMoyUfzaZIU4Afx0tq6q0=
+			QOPLjETohlpiJhyVBw6YBxoLxwSUPpH9h3IuvbyIdsQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Headers/PageSenseFramework-Swift.h</key>
@@ -345,33 +377,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rKmR3XAQPXXGKu11IrT2khrxrmg=
+			cyEmjq48CE93otfphYCHIj9CjYU=
 			</data>
 			<key>hash2</key>
 			<data>
-			jxFiXMJVDKqlZJFJFalo7WZLXooMtTwQIW/dv42S0aA=
+			3qfn/z670MgUcQvJTg8XwZpnnOM2ZVhFFxmUTocCOys=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aac9R/gA/bCLTyhB79BaYyZ2z4w=
+			Nefkgj52dQyj9mawISaSFpcdmKY=
 			</data>
 			<key>hash2</key>
 			<data>
-			FSvIy+9rYQJA3P2hQOFKHiOymjf6LmmhpWrbhxrF+uk=
+			3B197eQlw1agYRsVGgxZNP5BJk8HRafpW+Jq5OMe0+A=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0jrTwUq+ol8Pubo8I/HfQwOKi60=
+			tLLQoA0hQMqFxL8wRMBuW8nK1gA=
 			</data>
 			<key>hash2</key>
 			<data>
-			JuqWf+B3qEC25h+qIHJcz4WuVz9TECNL1JVX2qMg3Vs=
+			vMgmOIQlldDuLdknbrNvbGgwr7IzcB+XgNE4oiTIHdg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -389,33 +421,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0jrTwUq+ol8Pubo8I/HfQwOKi60=
+			tLLQoA0hQMqFxL8wRMBuW8nK1gA=
 			</data>
 			<key>hash2</key>
 			<data>
-			JuqWf+B3qEC25h+qIHJcz4WuVz9TECNL1JVX2qMg3Vs=
+			vMgmOIQlldDuLdknbrNvbGgwr7IzcB+XgNE4oiTIHdg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aac9R/gA/bCLTyhB79BaYyZ2z4w=
+			Nefkgj52dQyj9mawISaSFpcdmKY=
 			</data>
 			<key>hash2</key>
 			<data>
-			FSvIy+9rYQJA3P2hQOFKHiOymjf6LmmhpWrbhxrF+uk=
+			3B197eQlw1agYRsVGgxZNP5BJk8HRafpW+Jq5OMe0+A=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cAwlv+vhE/gRucWM1Db3HR7mHW4=
+			i6inl1RrjKDjDeFoTNOHyFNzlXM=
 			</data>
 			<key>hash2</key>
 			<data>
-			EJm7CRlBcZ3O4DeUeHDH1799LS+hwm0yBc5+6FueY6E=
+			5lmdKh5tJiEuY6iOLuDiQQIm+miw0edarQ26MPsAJCY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -433,11 +465,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cAwlv+vhE/gRucWM1Db3HR7mHW4=
+			i6inl1RrjKDjDeFoTNOHyFNzlXM=
 			</data>
 			<key>hash2</key>
 			<data>
-			EJm7CRlBcZ3O4DeUeHDH1799LS+hwm0yBc5+6FueY6E=
+			5lmdKh5tJiEuY6iOLuDiQQIm+miw0edarQ26MPsAJCY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/Modules/module.modulemap</key>
@@ -455,23 +487,49 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v/qcWrATmtwcSJ5oBh2KRmitpXU=
+			YD8JUiHqnijmMEdu8GA0eGgFCNE=
 			</data>
 			<key>hash2</key>
 			<data>
-			F+nTI9ZekCvNJW8lvJ+uVvgEkZw6SPhuyQh8RqYGIA4=
+			udRTi7qtxnsM1DgaB+4P6kgPj4nETybZfPeNaLJ3qcE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rntpq8S0xx347cYM592JkoHVhs0=
+			XFSQ54w90BQ3mPkNzJOGp13sAGk=
 			</data>
 			<key>hash2</key>
 			<data>
-			okibe3akdCydUVSpQTewlWtP+oEtjnza5JAgcUr1U3c=
+			V2nmQnilYSqsbY5SV0MIkt2Hf2ddFOGZ+a34Zhnjevc=
 			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/en.lproj/ZPSActionableNotificationLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zT8P5JppAmyI4cOeilCi9UyJ64g=
+			</data>
+			<key>hash2</key>
+			<data>
+			oQ1nAG7M+880/6k2KOtBejdOjsWJnajSle62G5/dXzM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/PageSenseFramework.framework/fr.lproj/ZPSActionableNotificationLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zT8P5JppAmyI4cOeilCi9UyJ64g=
+			</data>
+			<key>hash2</key>
+			<data>
+			oQ1nAG7M+880/6k2KOtBejdOjsWJnajSle62G5/dXzM=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/PageSenseFramework.framework.dSYM/Contents/Info.plist</key>
 		<dict>
@@ -488,33 +546,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8ss0GGjISdAj1m7UrCio1mmRaHU=
+			2ewza5LwSk8BCCEgmyjZrsUHAgI=
 			</data>
 			<key>hash2</key>
 			<data>
-			QvCfEqsw/tHi3rjnDsn0Po7fGckGR03kEkuoNiXlLzk=
+			CkFeEkQpMVO/98ZjCsuSXuYdR34S4JQfk2+gHlZ/BHM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/PageSenseFramework.framework.dSYM/Contents/Resources/Relocations/aarch64/PageSenseFramework.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YP8CpKNpFhTa12jtlDSuTMbMz0w=
+			GqtbagTNSy7hOgY40gp5VHkC5U0=
 			</data>
 			<key>hash2</key>
 			<data>
-			o0nfTobDIJ53kHKSD/iTyE9D1hp7uB2JqNIdMIek5XQ=
+			SKhbny4C9S+9CGH04PXhcM+bpB7Bgbbs8qV1G/OLIOs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/PageSenseFramework.framework.dSYM/Contents/Resources/Relocations/x86_64/PageSenseFramework.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xINos+XMF0Gn0VOssGoUtwKEgBM=
+			p51ugRCyWz/Z7CbeepzmpQh48dY=
 			</data>
 			<key>hash2</key>
 			<data>
-			+JPsp4UOjzDSQkSTiXklwOrnoD33ARCe4aR5AF2nyJw=
+			syeUuBhNDgUIF1W/yaM4fccpUGX7zu7EBe9nHwwS78I=
 			</data>
 		</dict>
 	</dict>

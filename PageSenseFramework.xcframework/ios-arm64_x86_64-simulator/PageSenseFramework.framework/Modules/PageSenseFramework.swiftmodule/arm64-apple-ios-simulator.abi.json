@@ -26,6 +26,23 @@
       },
       {
         "kind": "Import",
+        "name": "NotificationCenter",
+        "printedName": "NotificationCenter",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -128,8 +145,7 @@
             "static": true,
             "declAttributes": [
               "Final",
-              "AccessControl",
-              "RawDocComment"
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -153,6 +169,54 @@
             "declKind": "Func",
             "usr": "s:18PageSenseFramework0aB0C10trackEvent9eventNameySS_tFZ",
             "mangledName": "$s18PageSenseFramework0aB0C10trackEvent9eventNameySS_tFZ",
+            "moduleName": "PageSenseFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "trackEvent",
+            "printedName": "trackEvent(eventName:withProperties:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18PageSenseFramework0aB0C10trackEvent9eventName14withPropertiesySS_SDyS2SGtFZ",
+            "mangledName": "$s18PageSenseFramework0aB0C10trackEvent9eventName14withPropertiesySS_SDyS2SGtFZ",
             "moduleName": "PageSenseFramework",
             "static": true,
             "declAttributes": [
@@ -248,6 +312,91 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setPushToken",
+            "printedName": "setPushToken(deviceToken:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18PageSenseFramework0aB0C12setPushToken06deviceF0y10Foundation4DataV_tFZ",
+            "mangledName": "$s18PageSenseFramework0aB0C12setPushToken06deviceF0y10Foundation4DataV_tFZ",
+            "moduleName": "PageSenseFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "trackPushNotificationReceived",
+            "printedName": "trackPushNotificationReceived(notificationContent:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UNNotificationContent",
+                "printedName": "UserNotifications.UNNotificationContent",
+                "usr": "c:objc(cs)UNNotificationContent"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18PageSenseFramework0aB0C29trackPushNotificationReceived19notificationContentySo014UNNotificationI0C_tFZ",
+            "mangledName": "$s18PageSenseFramework0aB0C29trackPushNotificationReceived19notificationContentySo014UNNotificationI0C_tFZ",
+            "moduleName": "PageSenseFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "handleNotification",
+            "printedName": "handleNotification(response:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UNNotificationResponse",
+                "printedName": "UserNotifications.UNNotificationResponse",
+                "usr": "c:objc(cs)UNNotificationResponse"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18PageSenseFramework0aB0C18handleNotification8responseySo22UNNotificationResponseC_tFZ",
+            "mangledName": "$s18PageSenseFramework0aB0C18handleNotification8responseySo22UNNotificationResponseC_tFZ",
+            "moduleName": "PageSenseFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -315,6 +464,16 @@
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
           }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
         ]
       },
       {
@@ -557,6 +716,260 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NotificationCenter",
+        "printedName": "NotificationCenter",
+        "declKind": "Import",
+        "moduleName": "PageSenseFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PageSenseNotificationCategory",
+        "printedName": "PageSenseNotificationCategory",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "YesNoOpenAppDismissCategory",
+            "printedName": "YesNoOpenAppDismissCategory",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PageSenseFramework.PageSenseNotificationCategory.Type) -> PageSenseFramework.PageSenseNotificationCategory",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PageSenseNotificationCategory",
+                    "printedName": "PageSenseFramework.PageSenseNotificationCategory",
+                    "usr": "s:18PageSenseFramework0aB20NotificationCategoryO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PageSenseFramework.PageSenseNotificationCategory.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PageSenseNotificationCategory",
+                        "printedName": "PageSenseFramework.PageSenseNotificationCategory",
+                        "usr": "s:18PageSenseFramework0aB20NotificationCategoryO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:18PageSenseFramework0aB20NotificationCategoryO019YesNoOpenAppDismissE0yA2CmF",
+            "mangledName": "$s18PageSenseFramework0aB20NotificationCategoryO019YesNoOpenAppDismissE0yA2CmF",
+            "moduleName": "PageSenseFramework"
+          },
+          {
+            "kind": "Var",
+            "name": "yesNoBothDismissCategory",
+            "printedName": "yesNoBothDismissCategory",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PageSenseFramework.PageSenseNotificationCategory.Type) -> PageSenseFramework.PageSenseNotificationCategory",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PageSenseNotificationCategory",
+                    "printedName": "PageSenseFramework.PageSenseNotificationCategory",
+                    "usr": "s:18PageSenseFramework0aB20NotificationCategoryO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PageSenseFramework.PageSenseNotificationCategory.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PageSenseNotificationCategory",
+                        "printedName": "PageSenseFramework.PageSenseNotificationCategory",
+                        "usr": "s:18PageSenseFramework0aB20NotificationCategoryO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:18PageSenseFramework0aB20NotificationCategoryO016yesNoBothDismissE0yA2CmF",
+            "mangledName": "$s18PageSenseFramework0aB20NotificationCategoryO016yesNoBothDismissE0yA2CmF",
+            "moduleName": "PageSenseFramework"
+          },
+          {
+            "kind": "Var",
+            "name": "buyNowOpenAppCategory",
+            "printedName": "buyNowOpenAppCategory",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PageSenseFramework.PageSenseNotificationCategory.Type) -> PageSenseFramework.PageSenseNotificationCategory",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PageSenseNotificationCategory",
+                    "printedName": "PageSenseFramework.PageSenseNotificationCategory",
+                    "usr": "s:18PageSenseFramework0aB20NotificationCategoryO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PageSenseFramework.PageSenseNotificationCategory.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PageSenseNotificationCategory",
+                        "printedName": "PageSenseFramework.PageSenseNotificationCategory",
+                        "usr": "s:18PageSenseFramework0aB20NotificationCategoryO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:18PageSenseFramework0aB20NotificationCategoryO013buyNowOpenAppE0yA2CmF",
+            "mangledName": "$s18PageSenseFramework0aB20NotificationCategoryO013buyNowOpenAppE0yA2CmF",
+            "moduleName": "PageSenseFramework"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "PageSenseFramework.PageSenseNotificationCategory?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PageSenseNotificationCategory",
+                    "printedName": "PageSenseFramework.PageSenseNotificationCategory",
+                    "usr": "s:18PageSenseFramework0aB20NotificationCategoryO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:18PageSenseFramework0aB20NotificationCategoryO8rawValueACSgSS_tcfc",
+            "mangledName": "$s18PageSenseFramework0aB20NotificationCategoryO8rawValueACSgSS_tcfc",
+            "moduleName": "PageSenseFramework",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18PageSenseFramework0aB20NotificationCategoryO8rawValueSSvp",
+            "mangledName": "$s18PageSenseFramework0aB20NotificationCategoryO8rawValueSSvp",
+            "moduleName": "PageSenseFramework",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18PageSenseFramework0aB20NotificationCategoryO8rawValueSSvg",
+                "mangledName": "$s18PageSenseFramework0aB20NotificationCategoryO8rawValueSSvg",
+                "moduleName": "PageSenseFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:18PageSenseFramework0aB20NotificationCategoryO",
+        "mangledName": "$s18PageSenseFramework0aB20NotificationCategoryO",
+        "moduleName": "PageSenseFramework",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -760,6 +1173,153 @@
       "value": "\"DefaultLifeCycleEvent\""
     },
     {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 354,
+      "length": 15,
+      "value": "\"ACCEPT_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 388,
+      "length": 9,
+      "value": "\"OpenApp\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "Array",
+      "offset": 418,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 482,
+      "length": 15,
+      "value": "\"ACCEPT_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 516,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "Array",
+      "offset": 545,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 605,
+      "length": 15,
+      "value": "\"ACCEPT_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 639,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "Array",
+      "offset": 668,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 729,
+      "length": 15,
+      "value": "\"ACCEPT_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 763,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "Array",
+      "offset": 792,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 853,
+      "length": 15,
+      "value": "\"ACCEPT_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 887,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "Array",
+      "offset": 916,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 976,
+      "length": 15,
+      "value": "\"ACCEPT_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 1010,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "Array",
+      "offset": 1039,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 1101,
+      "length": 15,
+      "value": "\"ACCEPT_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 1135,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "kind": "Array",
+      "offset": 1164,
+      "length": 2,
+      "value": "[]"
+    },
+    {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
       "kind": "StringLiteral",
       "offset": 289,
@@ -783,14 +1343,28 @@
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
       "kind": "StringLiteral",
-      "offset": 473,
-      "length": 32,
-      "value": "\"optimize-collect.localzoho.com\""
+      "offset": 418,
+      "length": 46,
+      "value": "\"\/pagesense\/api\/psmobilepush?type=devicetoken\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
+      "length": 40,
+      "value": "\"\/pagesense\/api\/psmobilepush?type=event\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "kind": "StringLiteral",
+      "offset": 575,
+      "length": 43,
+      "value": "\"www.abinaya-3163.csez.zohocorpin.com:8080\""
     },
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
       "kind": "Dictionary",
-      "offset": 573,
+      "offset": 686,
       "length": 75,
       "value": "[(\"us\", \"com\"), (\"in\", \"in\"), (\"eu\", \"eu\"), (\"cn\", \"com.cn\"), (\"au\", \"com.au\")]"
     },
@@ -944,30 +1518,163 @@
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
-      "offset": 869,
+      "offset": 870,
+      "length": 14,
+      "value": "\"device_token\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 905,
+      "length": 13,
+      "value": "\"device_type\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 940,
       "length": 8,
       "value": "\"events\""
     },
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
-      "offset": 905,
+      "offset": 976,
       "length": 24,
       "value": "\"user_custom_attributes\""
     },
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
-      "offset": 941,
+      "offset": 1040,
+      "length": 14,
+      "value": "\"experimentid\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1085,
+      "length": 6,
+      "value": "\"time\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1126,
+      "length": 11,
+      "value": "\"sent_time\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1174,
+      "length": 12,
+      "value": "\"pushstatus\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1217,
+      "length": 24,
+      "value": "\"mobile_push_event_name\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1268,
+      "length": 20,
+      "value": "\"is_event_attribute\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1322,
+      "length": 27,
+      "value": "\"event_conversion_deadline\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1370,
+      "length": 13,
+      "value": "\"url_to_open\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1411,
+      "length": 21,
+      "value": "\"onclick_action_type\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1459,
+      "length": 20,
+      "value": "\"button_onclick_url\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1530,
+      "length": 21,
+      "value": "\"YES_OPEN_APP_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1604,
+      "length": 24,
+      "value": "\"ACCEPT_OPEN_APP_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1682,
+      "length": 26,
+      "value": "\"SHOW_NOW_OPEN_APP_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1761,
+      "length": 25,
+      "value": "\"BUY_NOW_OPEN_APP_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1841,
+      "length": 26,
+      "value": "\"DOWNLOAD_OPEN_APP_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1882,
       "length": 5,
       "value": "\"urd\""
     },
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
-      "offset": 957,
+      "offset": 1898,
       "length": 5,
       "value": "\"grd\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1915,
+      "length": 6,
+      "value": "\"dtrd\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1934,
+      "length": 7,
+      "value": "\"mperd\""
     },
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSSessionManager.swift",
@@ -1010,6 +1717,48 @@
       "offset": 471,
       "length": 22,
       "value": "\"eventQueueeventQueue\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 353,
+      "length": 29,
+      "value": "\"yesNoOpenAppDismissCategory\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 420,
+      "length": 26,
+      "value": "\"yesNoBothDismissCategory\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 481,
+      "length": 23,
+      "value": "\"buyNowOpenAppCategory\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 353,
+      "length": 29,
+      "value": "\"yesNoOpenAppDismissCategory\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 420,
+      "length": 26,
+      "value": "\"yesNoBothDismissCategory\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
+      "kind": "StringLiteral",
+      "offset": 481,
+      "length": 23,
+      "value": "\"buyNowOpenAppCategory\""
     }
   ]
 }
