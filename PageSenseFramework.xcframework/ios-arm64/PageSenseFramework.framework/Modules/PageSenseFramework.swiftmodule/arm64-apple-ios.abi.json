@@ -1651,28 +1651,63 @@
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1882,
+      "offset": 1899,
+      "length": 25,
+      "value": "\"zps_mobilepusheventname\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1959,
+      "length": 29,
+      "value": "\"zps_eventconversiondeadline\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 2019,
+      "length": 25,
+      "value": "\"zps_mobilepusheventtime\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 2068,
+      "length": 18,
+      "value": "\"zps_experimentid\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 2107,
+      "length": 15,
+      "value": "\"zps_sent_time\""
+    },
+    {
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 2135,
       "length": 5,
       "value": "\"urd\""
     },
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1898,
+      "offset": 2151,
       "length": 5,
       "value": "\"grd\""
     },
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1915,
+      "offset": 2168,
       "length": 6,
       "value": "\"dtrd\""
     },
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1934,
+      "offset": 2187,
       "length": 7,
       "value": "\"mperd\""
     },
