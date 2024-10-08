@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "PageSenseFramework",
+    "printedName": "PageSenseFramework",
     "children": [
       {
         "kind": "Import",
@@ -417,6 +417,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -626,6 +640,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -932,6 +960,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -1051,6 +1093,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1752,27 +1808,6 @@
       "offset": 471,
       "length": 22,
       "value": "\"eventQueueeventQueue\""
-    },
-    {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
-      "kind": "StringLiteral",
-      "offset": 353,
-      "length": 29,
-      "value": "\"yesNoOpenAppDismissCategory\""
-    },
-    {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
-      "kind": "StringLiteral",
-      "offset": 420,
-      "length": 26,
-      "value": "\"yesNoBothDismissCategory\""
-    },
-    {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
-      "kind": "StringLiteral",
-      "offset": 481,
-      "length": 23,
-      "value": "\"buyNowOpenAppCategory\""
     },
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
