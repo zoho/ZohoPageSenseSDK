@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.swiftlint.yml</key>
+		<data>
+		6U046fmv/wLDDtMZ0r/PIpl1P5g=
+		</data>
 		<key>Headers/PageSenseFramework-Swift.h</key>
 		<data>
 		oyXFBKJ2Exz9SoyGFNqF63kPOLk=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FfvMPnxZEO1VWD+eIij9Qw4EbhM=
+		VknorwWYq1/otk1SDfluf5TJSQE=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,7 +42,7 @@
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		86cFP9t0sjdiiDI5fMjWj9w1AJY=
+		NQzJhyrmiCtutnGuEJzE2DP/xTU=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,7 +62,7 @@
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JyfkcHWPuZkj24TJKZ4OiRGY1VI=
+		Q3sPDosbdp1TgE5EaJgpjrZagdE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,6 +89,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>.swiftlint.yml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Wuvu8aYtD41vKbFDYjnmr1OMoyUfzaZIU4Afx0tq6q0=
+			</data>
+		</dict>
 		<key>Headers/PageSenseFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -138,7 +149,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j3rnuZEIr/2C7GJWgYNNNNY9D20KpT43sPUMTf6nOVo=
+			hAaphEEpivthg0nyFsO8Gvrf+9gY0co2hHEOwndysR8=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -173,7 +184,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A26YM5tYPW1nuFHJ9HE5FPpFJbZs2H5e4I6mM0M9slc=
+			vaq6HLrou5+ZgL04N2JSeqyKhkqe4pKejKkh0yMcrxk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
