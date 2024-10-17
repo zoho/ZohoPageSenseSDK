@@ -151,12 +151,12 @@ relocations:
   - { offset: 0x94C01, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C18handleNotification8responseySo22UNNotificationResponseC_tFZ', symObjAddr: 0x1488, symBinAddr: 0xB3B0, symSize: 0x19AC }
   - { offset: 0x9514E, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0CfD', symObjAddr: 0x3080, symBinAddr: 0xCFA8, symSize: 0x30 }
   - { offset: 0x95217, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C8getAppIDSSyFZTf4d_n', symObjAddr: 0x4604, symBinAddr: 0xE52C, symSize: 0x3B0 }
-  - { offset: 0x95339, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C06urdForaB0SDySSypGyFTf4d_n', symObjAddr: 0x49B4, symBinAddr: 0xE8DC, symSize: 0x5A8 }
-  - { offset: 0x95542, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C31timeIntervalSince1970DateStringSSyFTf4d_n', symObjAddr: 0x4F5C, symBinAddr: 0xEE84, symSize: 0xCC }
-  - { offset: 0x955E8, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C017writeConversionToaB10Dictionary6statusSDySSypGSi_tFTf4nd_n', symObjAddr: 0x5028, symBinAddr: 0xEF50, symSize: 0x74C }
-  - { offset: 0x95A43, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C23JSONStringForDictionary10dictionarySSSDySSypG_tFTf4nd_n', symObjAddr: 0x5774, symBinAddr: 0xF69C, symSize: 0x238 }
-  - { offset: 0x95B75, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C15trackConversionyyFTf4d_n', symObjAddr: 0x59AC, symBinAddr: 0xF8D4, symSize: 0x1A8 }
-  - { offset: 0x95C61, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C026writeEventWithConversionToaB10Dictionary6eventsSDySSypGSayAA0abE0CG_tFTf4nd_n', symObjAddr: 0x5B54, symBinAddr: 0xFA7C, symSize: 0x3A8 }
+  - { offset: 0x952E9, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C31timeIntervalSince1970DateStringSSyFTf4d_n', symObjAddr: 0x49B4, symBinAddr: 0xE8DC, symSize: 0xCC }
+  - { offset: 0x953FA, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C06urdForaB0SDySSypGyFTf4d_n', symObjAddr: 0x4A80, symBinAddr: 0xE9A8, symSize: 0x5A8 }
+  - { offset: 0x955E1, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C026writeEventWithConversionToaB10Dictionary6eventsSDySSypGSayAA0abE0CG_tFTf4nd_n', symObjAddr: 0x5028, symBinAddr: 0xEF50, symSize: 0x3A8 }
+  - { offset: 0x9580D, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C23JSONStringForDictionary10dictionarySSSDySSypG_tFTf4nd_n', symObjAddr: 0x53D0, symBinAddr: 0xF2F8, symSize: 0x238 }
+  - { offset: 0x95946, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C017writeConversionToaB10Dictionary6statusSDySSypGSi_tFTf4nd_n', symObjAddr: 0x5608, symBinAddr: 0xF530, symSize: 0x74C }
+  - { offset: 0x95DA8, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C15trackConversionyyFTf4d_n', symObjAddr: 0x5D54, symBinAddr: 0xFC7C, symSize: 0x1A8 }
   - { offset: 0x95E8D, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C012writeEventToaB10Dictionary6eventsSDySSypGSayAA0abE0CG_tFTf4nd_n', symObjAddr: 0x5EFC, symBinAddr: 0xFE24, symSize: 0x19C }
   - { offset: 0x96046, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C10trackEvent9eventName14withPropertiesySS_SDyS2SGtFTf4nnd_n', symObjAddr: 0x63C0, symBinAddr: 0x102E8, symSize: 0x548 }
   - { offset: 0x962EC, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C011writeUserToaB10DictionarySDySSypGyFTf4d_n', symObjAddr: 0x6908, symBinAddr: 0x10830, symSize: 0x1A4 }
