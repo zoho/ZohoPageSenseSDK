@@ -1421,8 +1421,8 @@
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
       "kind": "Dictionary",
       "offset": 686,
-      "length": 75,
-      "value": "[(\"us\", \"com\"), (\"in\", \"in\"), (\"eu\", \"eu\"), (\"cn\", \"com.cn\"), (\"au\", \"com.au\")]"
+      "length": 87,
+      "value": "[(\"us\", \"com\"), (\"in\", \"in\"), (\"eu\", \"eu\"), (\"cn\", \"com.cn\"), (\"au\", \"com.au\"), (\"uae\", \"ae\")]"
     },
     {
       "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSense.swift",
