@@ -1180,651 +1180,651 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
       "kind": "StringLiteral",
       "offset": 247,
       "length": 20,
       "value": "\"didEnterBackground\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
       "kind": "StringLiteral",
       "offset": 324,
       "length": 21,
       "value": "\"willEnterForeground\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
       "kind": "StringLiteral",
       "offset": 398,
       "length": 17,
       "value": "\"didBecomeActive\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
       "kind": "StringLiteral",
       "offset": 469,
       "length": 18,
       "value": "\"willResignActive\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
       "kind": "StringLiteral",
       "offset": 538,
       "length": 28,
       "value": "\"UIApplicationWillTerminate\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
       "kind": "StringLiteral",
       "offset": 622,
       "length": 33,
       "value": "\"UIApplicationDidFinishLaunching\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSLifeCycleEvents.swift",
       "kind": "StringLiteral",
       "offset": 687,
       "length": 23,
       "value": "\"DefaultLifeCycleEvent\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 354,
       "length": 15,
       "value": "\"ACCEPT_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 388,
       "length": 9,
       "value": "\"OpenApp\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "Array",
       "offset": 418,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 482,
       "length": 15,
       "value": "\"ACCEPT_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 516,
       "length": 8,
       "value": "\"Accept\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "Array",
       "offset": 545,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 605,
       "length": 15,
       "value": "\"ACCEPT_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 639,
       "length": 8,
       "value": "\"Accept\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "Array",
       "offset": 668,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 729,
       "length": 15,
       "value": "\"ACCEPT_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 763,
       "length": 8,
       "value": "\"Accept\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "Array",
       "offset": 792,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 853,
       "length": 15,
       "value": "\"ACCEPT_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 887,
       "length": 8,
       "value": "\"Accept\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "Array",
       "offset": 916,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 976,
       "length": 15,
       "value": "\"ACCEPT_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 1010,
       "length": 8,
       "value": "\"Accept\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "Array",
       "offset": 1039,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 1101,
       "length": 15,
       "value": "\"ACCEPT_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "StringLiteral",
       "offset": 1135,
       "length": 8,
       "value": "\"Accept\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSActionableNotificationTypes.swift",
       "kind": "Array",
       "offset": 1164,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
       "kind": "StringLiteral",
       "offset": 289,
       "length": 10,
       "value": "\"https:\/\/\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
       "kind": "StringLiteral",
       "offset": 318,
-      "length": 25,
-      "value": "\"pagesense-collect.zoho.\""
+      "length": 20,
+      "value": "\"pagesense-collect.\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
       "kind": "StringLiteral",
-      "offset": 362,
+      "offset": 357,
       "length": 25,
       "value": "\"\/pagesense\/api\/psmobile\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
       "kind": "StringLiteral",
-      "offset": 418,
+      "offset": 413,
       "length": 46,
       "value": "\"\/pagesense\/api\/psmobilepush?type=devicetoken\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
       "kind": "StringLiteral",
-      "offset": 507,
+      "offset": 502,
       "length": 40,
       "value": "\"\/pagesense\/api\/psmobilepush?type=event\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
       "kind": "StringLiteral",
-      "offset": 575,
+      "offset": 570,
       "length": 43,
       "value": "\"www.abinaya-3163.csez.zohocorpin.com:8080\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseURLGenerator.swift",
       "kind": "Dictionary",
-      "offset": 686,
-      "length": 87,
-      "value": "[(\"us\", \"com\"), (\"in\", \"in\"), (\"eu\", \"eu\"), (\"cn\", \"com.cn\"), (\"au\", \"com.au\"), (\"uae\", \"ae\")]"
+      "offset": 681,
+      "length": 172,
+      "value": "[(\"us\", \"zoho.com\"), (\"in\", \"zoho.in\"), (\"sa\", \"zoho.sa\"), (\"jp\", \"zoho.jp\"), (\"eu\", \"zoho.eu\"), (\"cn\", \"zoho.com.cn\"), (\"au\", \"zoho.com.au\"), (\"ca\", \"zohocloud.ca\"), (\"uae\", \"zoho.ae\")]"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSense.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSense.swift",
       "kind": "IntegerLiteral",
       "offset": 482,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSense.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSense.swift",
       "kind": "FloatLiteral",
       "offset": 522,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSense.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSense.swift",
       "kind": "BooleanLiteral",
       "offset": 576,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 206,
       "length": 11,
       "value": "\"eventname\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 237,
       "length": 6,
       "value": "\"time\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 277,
       "length": 23,
       "value": "\"time_to_achieve_event\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 332,
       "length": 21,
       "value": "\"is_life_cycle_event\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 390,
       "length": 25,
       "value": "\"event_custom_attributes\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 437,
       "length": 12,
       "value": "\"regioncode\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 472,
       "length": 14,
       "value": "\"batterylevel\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 507,
       "length": 13,
       "value": "\"device_uuid\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 543,
       "length": 14,
       "value": "\"currencycode\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 578,
       "length": 13,
       "value": "\"app_version\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 609,
       "length": 10,
       "value": "\"app_name\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 649,
       "length": 23,
       "value": "\"app_bundle_identifier\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 688,
       "length": 8,
       "value": "\"app_id\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 716,
       "length": 11,
       "value": "\"osversion\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 743,
       "length": 7,
       "value": "\"model\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 770,
       "length": 11,
       "value": "\"sessionid\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 798,
       "length": 4,
       "value": "\"os\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 829,
       "length": 18,
       "value": "\"frameworkversion\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 870,
       "length": 14,
       "value": "\"device_token\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 905,
       "length": 13,
       "value": "\"device_type\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 940,
       "length": 8,
       "value": "\"events\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 976,
       "length": 24,
       "value": "\"user_custom_attributes\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1040,
       "length": 14,
       "value": "\"experimentid\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1085,
       "length": 6,
       "value": "\"time\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1126,
       "length": 11,
       "value": "\"sent_time\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1174,
       "length": 12,
       "value": "\"pushstatus\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1217,
       "length": 24,
       "value": "\"mobile_push_event_name\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1268,
       "length": 20,
       "value": "\"is_event_attribute\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1322,
       "length": 27,
       "value": "\"event_conversion_deadline\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1370,
       "length": 13,
       "value": "\"url_to_open\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1411,
       "length": 21,
       "value": "\"onclick_action_type\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1459,
       "length": 20,
       "value": "\"button_onclick_url\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1530,
       "length": 21,
       "value": "\"YES_OPEN_APP_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1604,
       "length": 24,
       "value": "\"ACCEPT_OPEN_APP_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1682,
       "length": 26,
       "value": "\"SHOW_NOW_OPEN_APP_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1761,
       "length": 25,
       "value": "\"BUY_NOW_OPEN_APP_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1841,
       "length": 26,
       "value": "\"DOWNLOAD_OPEN_APP_ACTION\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1899,
       "length": 25,
       "value": "\"zps_mobilepusheventname\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 1959,
       "length": 29,
       "value": "\"zps_eventconversiondeadline\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 2019,
       "length": 25,
       "value": "\"zps_mobilepusheventtime\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 2068,
       "length": 18,
       "value": "\"zps_experimentid\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 2107,
       "length": 15,
       "value": "\"zps_sent_time\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 2135,
       "length": 5,
       "value": "\"urd\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 2151,
       "length": 5,
       "value": "\"grd\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 2168,
       "length": 6,
       "value": "\"dtrd\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseKeys.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/PageSenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 2187,
       "length": 7,
       "value": "\"mperd\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSSessionManager.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSSessionManager.swift",
       "kind": "IntegerLiteral",
       "offset": 347,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSScreen.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSScreen.swift",
       "kind": "StringLiteral",
       "offset": 287,
       "length": 30,
       "value": "\"timeIntervalSince1970DateKey\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSScreen.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSScreen.swift",
       "kind": "StringLiteral",
       "offset": 342,
       "length": 15,
       "value": "\"screenNameKey\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSPushNotifications.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSPushNotifications.swift",
       "kind": "Dictionary",
       "offset": 364,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSPushNotifications.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSPushNotifications.swift",
       "kind": "BooleanLiteral",
       "offset": 399,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSDispatchQueue.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSDispatchQueue.swift",
       "kind": "StringLiteral",
       "offset": 471,
       "length": 22,
       "value": "\"eventQueueeventQueue\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
       "kind": "StringLiteral",
       "offset": 353,
       "length": 29,
       "value": "\"yesNoOpenAppDismissCategory\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
       "kind": "StringLiteral",
       "offset": 420,
       "length": 26,
       "value": "\"yesNoBothDismissCategory\""
     },
     {
-      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
+      "filePath": "\/Users\/thiagesh-1446\/Documents\/GitHub\/pagesense-ios-framework-\/native\/PageSenseFramework\/ZPSNotificationCategoryTypes.swift",
       "kind": "StringLiteral",
       "offset": 481,
       "length": 23,
