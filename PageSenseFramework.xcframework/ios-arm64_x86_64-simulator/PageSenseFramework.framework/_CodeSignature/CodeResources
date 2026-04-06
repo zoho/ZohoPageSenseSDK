@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/PageSenseFramework-Swift.h</key>
 		<data>
-		fCje/HqnSV0K/7qeXKo9CKMaPE8=
+		nzGklbgUQPV2kOP7aW66e24o9s8=
 		</data>
 		<key>Headers/PageSenseFramework.h</key>
 		<data>
@@ -22,52 +22,61 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0XPLV7zo5nBEuxLlGhSO35mlKmE=
+		2Dxz5OOAp4t33GOK3T1Ufx+uHCU=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		5uZ1VZ4aIRNRqM8xZWqskA20vpQ=
+		E9w5s7aE9KOTxtdDJMjdNDlABc4=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ehiqwm+dnboNx6m9pPCpkR02/as=
+		WjPkN7DyzpyjFS90HFW20yc1Kb8=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		3A7eYuWjMrUYeENP3L4cUlPzsPA=
+		d8JdvLyrsk9a7BO8Ke2Bn9WH9Cs=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ehiqwm+dnboNx6m9pPCpkR02/as=
+		WjPkN7DyzpyjFS90HFW20yc1Kb8=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AjfdW77dwrG5q9TqWWUlRJy0aGY=
+		bhYcd8AFj29loLhIyx0LhBbrsS8=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		5uZ1VZ4aIRNRqM8xZWqskA20vpQ=
+		E9w5s7aE9KOTxtdDJMjdNDlABc4=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		0tIy4lweSOMhIamPeolziLGlvZs=
+		uytluUtKw6lu3DwaGOf4gjf6FMA=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		mnbRHnz63xRaNsw2cQJV+6+wMz8=
+		BArUfKNTl5U1Ricaq6YPT+hpKCc=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		0tIy4lweSOMhIamPeolziLGlvZs=
+		uytluUtKw6lu3DwaGOf4gjf6FMA=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		k6/K9Sz48ozm6yWEzYV/h3CPDok=
+		pNNVnBYUgGdUxt5Q9u9NnP11MHU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		gCU3VEc0trhl6Oegn9VnpZXZTVE=
+		/dtux/NT/7tl+kJIUjniIJD8mkk=
 		</data>
+		<key>en.lproj/PageSenseFullStackMessages.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rd3hCRDWc0WGEjLzgiWTYx9KDaI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/ZPSActionableNotificationLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -100,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			txCgqAZVJ59O7RW/XnbrULaDX93zFnG1qQ4dJmIu51E=
+			MyxuVf/LWv4fsr0mnYuMghSs/lqT04sQPJ/fsfUcgmY=
 			</data>
 		</dict>
 		<key>Headers/PageSenseFramework.h</key>
@@ -121,78 +130,87 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6DkWylByae8OVbPCUVFX6H9WkL3/gkVWh/rDIHLaQ6M=
+			AYJDhJLyfsUyb3Wl8rEexrUNHAv9ihttBNIkhsK45Eg=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U12xcns2z57INnHM/zho3iJ6AmWrhGjC+ZOKFgp4DM4=
+			j/qfNBHpaLr2ze+rzq05+/h7xxOfJ3exfohXWjBzbzg=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fRKlOQorohc2rb3c8ciFNzyC/pmE0JNhxeovMWpb+J4=
+			UW79uZc2Y/rdz9SnjO8tnk5LZVJfNR1FEkD+rgikve0=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U12xcns2z57INnHM/zho3iJ6AmWrhGjC+ZOKFgp4DM4=
+			j/qfNBHpaLr2ze+rzq05+/h7xxOfJ3exfohXWjBzbzg=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ugrhm6tsJRROSj+T761ExVEv9IdzgBeMxM9hFO+AbL0=
+			8fKbJpdf/hE0F0edbcLFFr8uQfomDHCRCulUOeygQM4=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6DkWylByae8OVbPCUVFX6H9WkL3/gkVWh/rDIHLaQ6M=
+			AYJDhJLyfsUyb3Wl8rEexrUNHAv9ihttBNIkhsK45Eg=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eGfH5rw8/hVTxBxazUlH8a4d6CDfvod008u5uKAQROE=
+			I/hONQDjHlGToNekrtT7CQg5+xQ9V8H86kTXCBiLrxo=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o/vg1qo1T3E5TASBs7u8LrmwpJ669b2OyNsxqG9nhkw=
+			3Ox9a4SQxcRdEuOPq4VQDdZruTTUPlHl4oCDav9DwZk=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eGfH5rw8/hVTxBxazUlH8a4d6CDfvod008u5uKAQROE=
+			I/hONQDjHlGToNekrtT7CQg5+xQ9V8H86kTXCBiLrxo=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JBT4HX+5mvQ7MCclz2DwumFKPrhlQRhBBI/AGqiMV7A=
+			UQ0RSmKZv0q4rKknJafOyal4ONpbwsI4pruer8yx1CU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mnZz5Rp7ZTuX1pQLo88MJPDjuakQ94auA0R9ZJJ1ilg=
+			YrWrfo3svVM3W1FV3yn9qLoaG48MrBj83u+YMEslb4Y=
 			</data>
+		</dict>
+		<key>en.lproj/PageSenseFullStackMessages.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c3ZJdVO1eH1QANr8ozGP21TsnkqqI7hKk+RKCSllDvw=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>en.lproj/ZPSActionableNotificationLocalizable.strings</key>
 		<dict>

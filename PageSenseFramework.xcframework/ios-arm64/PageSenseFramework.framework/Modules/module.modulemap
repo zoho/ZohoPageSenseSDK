@@ -7,5 +7,4 @@ framework module PageSenseFramework {
 
 module PageSenseFramework.Swift {
   header "PageSenseFramework-Swift.h"
-  requires objc
 }
